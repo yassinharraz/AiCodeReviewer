@@ -1,0 +1,20 @@
+# Core RAG / LLM framework
+langchain
+langchain-community
+langchain-huggingface
+
+# Vector store
+faiss-cpu
+
+# Hugging Face models & inference
+transformers
+sentence-transformers
+huggingface-hub
+torch
+accelerate
+
+# Structured output parsing
+pydantic
+
+# Web interface
+streamlit
