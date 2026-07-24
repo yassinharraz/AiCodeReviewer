@@ -21,7 +21,7 @@ Here are the steps:
 2) Enable GPU: Settings → Accelerator → GPU.
 3) Download the cheatsheet files (PEP 8, Clean Code, OWASP) from the repo's knowledge-base folder.
 4) In Kaggle, click Add Data → Upload, and upload the cheatsheets so they're available as an input dataset.
-5) Upload/paste the AiCodeReviewer notebook code into Kaggle.
+5) Upload/paste the AiCodeReviewer notebook code into Kaggle and in CELL 4 change the path to your path.
 6) Run all cells — this builds the FAISS vector store from the cheatsheets and loads the Qwen model, confirming the full RAG pipeline works.
 7) On your local machine, clone the repo:
 ```
